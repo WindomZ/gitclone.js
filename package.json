@@ -1,7 +1,8 @@
 {
   "name": "gitget",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A cli tool, git clone repository in the `go get` style.",
+  "preferGlobal": true,
   "main": "index.js",
   "bin": {
     "gitget": "./bin/gitget.js"
@@ -17,7 +18,7 @@
     "git",
     "clone"
   ],
-  "author": "WindomZ",
+  "author": "WindomZ <git.windomz@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/WindomZ/gitget.js/issues"
@@ -30,6 +31,6 @@
     "ava": "^0.19.1",
     "coveralls": "^2.13.1",
     "nyc": "^11.0.1",
-    "standard": "^10.0.2"
+    "standard": "*"
   }
 }
