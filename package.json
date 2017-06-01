@@ -1,0 +1,26 @@
+{
+  "name": "gitclone",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "gitclone": "gitclone.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindomZ/gitclone.js.git"
+  },
+  "keywords": [
+    "git",
+    "clone"
+  ],
+  "author": "WindomZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WindomZ/gitclone.js/issues"
+  },
+  "homepage": "https://github.com/WindomZ/gitclone.js#readme"
+}
