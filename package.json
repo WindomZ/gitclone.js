@@ -1,17 +1,17 @@
 {
-  "name": "gitclone",
+  "name": "gitget",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "gitclone": "gitclone.js"
+    "gitget": "./bin/gitget.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WindomZ/gitclone.js.git"
+    "url": "git+https://github.com/WindomZ/gitget.js.git"
   },
   "keywords": [
     "git",
@@ -20,7 +20,7 @@
   "author": "WindomZ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/WindomZ/gitclone.js/issues"
+    "url": "https://github.com/WindomZ/gitget.js/issues"
   },
-  "homepage": "https://github.com/WindomZ/gitclone.js#readme"
+  "homepage": "https://github.com/WindomZ/gitget.js#readme"
 }
