@@ -1,2 +1,5 @@
 # gitget.js
-A cli tool, git clone repository in the `go get` style.
+
+> A cli tool, git clone repository in the `go get` style.
+
+_Developing..._
