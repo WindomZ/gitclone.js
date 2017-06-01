@@ -13,7 +13,7 @@ let noArgs = true
 program
   .version(pkg.version)
   .description(pkg.description)
-  .usage('[options] <repo>')
+  .usage('[options] [command] <repo>')
   .action((repo, options) => {
     noArgs = false
 
